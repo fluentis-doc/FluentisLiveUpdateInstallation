@@ -1,0 +1,23 @@
+{
+  "id": "fluentisliveupdate/menu/licenses",
+  "title": "Licenses",
+  "description": "In this page you can insert a Fluentis License that will be put directly in the database when you install an environment.",
+  "source": "@site/docs/fluentisliveupdate/menu/licenses.md",
+  "sourceDirName": "fluentisliveupdate/menu",
+  "slug": "/fluentisliveupdate/menu/licenses",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/menu/licenses",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Licenses",
+    "sidebar_position": 1
+  },
+  "sidebar": "LiveUpdate Installation",
+  "previous": {
+    "title": "Fluentis Live Update on Docker",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/docker/flu-docker-installation"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "installation-scenarios/ubuntu-docker",
+  "title": "Ubuntu (Docker)",
+  "description": "Read carefully the Overview article placed inside the section FluentisInstaller",
+  "source": "@site/docs/installation-scenarios/ubuntu-docker.md",
+  "sourceDirName": "installation-scenarios",
+  "slug": "/installation-scenarios/ubuntu-docker",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/installation-scenarios/ubuntu-docker",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Ubuntu (Docker)",
+    "sidebar_position": 2
+  },
+  "sidebar": "Installation Scenarios",
+  "previous": {
+    "title": "Windows",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/installation-scenarios/windows-only"
+  },
+  "next": {
+    "title": "Windows and Ubuntu (Docker)",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/installation-scenarios/mixed-windows-ubuntu-docker"
+  }
+}

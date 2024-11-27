@@ -1,0 +1,27 @@
+{
+  "id": "fluentisliveupdate/docker/flu-docker-installation",
+  "title": "Fluentis Live Update on Docker",
+  "description": "In this article is described step by step the installation of FluentisLiveUpdate on Docker.",
+  "source": "@site/docs/fluentisliveupdate/docker/flu-docker-installation.md",
+  "sourceDirName": "fluentisliveupdate/docker",
+  "slug": "/fluentisliveupdate/docker/flu-docker-installation",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/docker/flu-docker-installation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Fluentis Live Update on Docker",
+    "sidebar_position": 0
+  },
+  "sidebar": "LiveUpdate Installation",
+  "previous": {
+    "title": "Fluentis Live Update on Windows Server",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentisinstaller/windows/fluentisinstaller-windows"
+  },
+  "next": {
+    "title": "License",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/menu/licenses"
+  }
+}

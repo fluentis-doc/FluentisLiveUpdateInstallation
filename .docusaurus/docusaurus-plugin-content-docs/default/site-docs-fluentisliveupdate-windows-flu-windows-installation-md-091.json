@@ -1,0 +1,18 @@
+{
+  "id": "fluentisliveupdate/windows/flu-windows-installation",
+  "title": "FLU on Windows",
+  "description": "In this article is described step by step the installation of FluentisLiveUpdate on a Standard environment (i.e. all Fluentis software are installed under Windows OS).",
+  "source": "@site/docs/fluentisliveupdate/windows/flu-windows-installation.md",
+  "sourceDirName": "fluentisliveupdate/windows",
+  "slug": "/fluentisliveupdate/windows/flu-windows-installation",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/windows/flu-windows-installation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "FLU on Windows",
+    "sidebar_position": 1
+  }
+}

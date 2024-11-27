@@ -1,0 +1,18 @@
+{
+  "id": "installation-scenarios/docker-more-clusters",
+  "title": "Docker - 1 Arm, More Fluentis Clusters",
+  "description": "This is a particular case, where you need to manage more clusters at the same version in one server.",
+  "source": "@site/docs/installation-scenarios/docker-more-clusters.md",
+  "sourceDirName": "installation-scenarios",
+  "slug": "/installation-scenarios/docker-more-clusters",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/installation-scenarios/docker-more-clusters",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Docker - 1 Arm, More Fluentis Clusters",
+    "sidebar_position": 4
+  }
+}

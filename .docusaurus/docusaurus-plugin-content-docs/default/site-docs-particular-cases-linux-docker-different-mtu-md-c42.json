@@ -1,0 +1,27 @@
+{
+  "id": "particular-cases/linux-docker/different-mtu",
+  "title": "Different MTU",
+  "description": "Problem",
+  "source": "@site/docs/particular-cases/linux-docker/different-mtu.md",
+  "sourceDirName": "particular-cases/linux-docker",
+  "slug": "/particular-cases/linux-docker/different-mtu",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/particular-cases/linux-docker/different-mtu",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Different MTU",
+    "sidebar_position": 2
+  },
+  "sidebar": "Tips & Tricks",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/particular-cases/getting-started"
+  },
+  "next": {
+    "title": "Internet connectivity test",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/particular-cases/linux-docker/internet-connectivity-test"
+  }
+}

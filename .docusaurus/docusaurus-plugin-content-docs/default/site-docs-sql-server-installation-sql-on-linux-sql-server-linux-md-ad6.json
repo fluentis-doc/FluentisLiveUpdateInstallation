@@ -1,0 +1,26 @@
+{
+  "id": "sql-server-installation/SQL on Linux/sql-server-linux",
+  "title": "MSSQL On Linux",
+  "description": "Prerequisites",
+  "source": "@site/docs/sql-server-installation/SQL on Linux/sql-server-linux.md",
+  "sourceDirName": "sql-server-installation/SQL on Linux",
+  "slug": "/sql-server-installation/SQL on Linux/sql-server-linux",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/sql-server-installation/SQL on Linux/sql-server-linux",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MSSQL On Linux",
+    "siderbar_position": 1
+  },
+  "sidebar": "MSSQL Installation",
+  "previous": {
+    "title": "SQL on Windows",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/sql-server-installation/windows/sql-server-windows"
+  },
+  "next": {
+    "title": "Take Database from Docker",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/sql-server-installation/Take-database-from-docker/take-db-from-docker"
+  }
+}

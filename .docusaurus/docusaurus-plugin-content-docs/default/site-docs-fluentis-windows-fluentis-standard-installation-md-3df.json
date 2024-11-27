@@ -1,0 +1,27 @@
+{
+  "id": "fluentis/windows/fluentis-standard-installation",
+  "title": "Fluentis on Windows",
+  "description": "This article will describe how to manage the Fluentis/ARM installation, assuming that the article FluentisLiveUpdate Installation has been followed, and so FluentisLiveUpdate web app is up and running.",
+  "source": "@site/docs/fluentis/windows/fluentis-standard-installation.md",
+  "sourceDirName": "fluentis/windows",
+  "slug": "/fluentis/windows/fluentis-standard-installation",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentis/windows/fluentis-standard-installation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Fluentis on Windows",
+    "sidebar_position": 0
+  },
+  "sidebar": "Fluentis",
+  "previous": {
+    "title": "Fluentis on Docker",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentis/docker/fluentis-docker-installation"
+  },
+  "next": {
+    "title": "Fluentis Web Installation",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentis/web/web-installation"
+  }
+}

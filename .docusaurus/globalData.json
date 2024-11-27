@@ -1,0 +1,389 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/Advanced/FluentisLiveUpdate/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/Advanced/FluentisLiveUpdate/docs",
+          "mainDocId": "specifications/getting-started",
+          "docs": [
+            {
+              "id": "docker-installation/getting-started",
+              "path": "/Advanced/FluentisLiveUpdate/docs/docker-installation/getting-started",
+              "sidebar": "Docker Installation"
+            },
+            {
+              "id": "docker-installation/linux/docker-engine-install",
+              "path": "/Advanced/FluentisLiveUpdate/docs/docker-installation/linux/docker-engine-install",
+              "sidebar": "Docker Installation"
+            },
+            {
+              "id": "docker-installation/linux/linux",
+              "path": "/Advanced/FluentisLiveUpdate/docs/docker-installation/linux/"
+            },
+            {
+              "id": "docker-installation/windows/docker-desktop-install",
+              "path": "/Advanced/FluentisLiveUpdate/docs/docker-installation/windows/docker-desktop-install",
+              "sidebar": "Docker Installation"
+            },
+            {
+              "id": "FAQ/WINDOWSFAQ",
+              "path": "/Advanced/FluentisLiveUpdate/docs/FAQ/WINDOWSFAQ",
+              "sidebar": "FAQ"
+            },
+            {
+              "id": "fluentis-on-docker/getting-started",
+              "path": "/Advanced/FluentisLiveUpdate/docs/fluentis-on-docker/getting-started"
+            },
+            {
+              "id": "fluentis/clients-installation/fluentis-web",
+              "path": "/Advanced/FluentisLiveUpdate/docs/fluentis/clients-installation/fluentis-web",
+              "sidebar": "Fluentis"
+            },
+            {
+              "id": "fluentis/clients-installation/fluentis-xamarin",
+              "path": "/Advanced/FluentisLiveUpdate/docs/fluentis/clients-installation/fluentis-xamarin",
+              "sidebar": "Fluentis"
+            },
+            {
+              "id": "fluentis/clients-installation/windows",
+              "path": "/Advanced/FluentisLiveUpdate/docs/fluentis/clients-installation/windows",
+              "sidebar": "Fluentis"
+            },
+            {
+              "id": "fluentis/docker/fluentis-docker-installation",
+              "path": "/Advanced/FluentisLiveUpdate/docs/fluentis/docker/fluentis-docker-installation",
+              "sidebar": "Fluentis"
+            },
+            {
+              "id": "fluentis/getting-started",
+              "path": "/Advanced/FluentisLiveUpdate/docs/fluentis/getting-started",
+              "sidebar": "Fluentis"
+            },
+            {
+              "id": "fluentis/licenses",
+              "path": "/Advanced/FluentisLiveUpdate/docs/fluentis/licenses"
+            },
+            {
+              "id": "fluentis/web/web-installation",
+              "path": "/Advanced/FluentisLiveUpdate/docs/fluentis/web/web-installation",
+              "sidebar": "Fluentis"
+            },
+            {
+              "id": "fluentis/windows/fluentis-standard-installation",
+              "path": "/Advanced/FluentisLiveUpdate/docs/fluentis/windows/fluentis-standard-installation",
+              "sidebar": "Fluentis"
+            },
+            {
+              "id": "fluentisinstaller/getting-started",
+              "path": "/Advanced/FluentisLiveUpdate/docs/fluentisinstaller/getting-started",
+              "sidebar": "LiveUpdate Installation"
+            },
+            {
+              "id": "fluentisinstaller/linux/fluentisinstaller-linux",
+              "path": "/Advanced/FluentisLiveUpdate/docs/fluentisinstaller/linux/fluentisinstaller-linux",
+              "sidebar": "LiveUpdate Installation"
+            },
+            {
+              "id": "fluentisinstaller/windows/fluentisinstaller-windows",
+              "path": "/Advanced/FluentisLiveUpdate/docs/fluentisinstaller/windows/fluentisinstaller-windows",
+              "sidebar": "LiveUpdate Installation"
+            },
+            {
+              "id": "fluentisinstaller/windows/fluentisinstaller-windows-update",
+              "path": "/Advanced/FluentisLiveUpdate/docs/fluentisinstaller/windows/fluentisinstaller-windows-update"
+            },
+            {
+              "id": "fluentisliveupdate/docker/flu-docker-installation",
+              "path": "/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/docker/flu-docker-installation",
+              "sidebar": "LiveUpdate Installation"
+            },
+            {
+              "id": "fluentisliveupdate/docker/flu-docker-update",
+              "path": "/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/docker/flu-docker-update"
+            },
+            {
+              "id": "fluentisliveupdate/menu/docker-installations",
+              "path": "/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/menu/docker-installations"
+            },
+            {
+              "id": "fluentisliveupdate/menu/environments",
+              "path": "/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/menu/environments"
+            },
+            {
+              "id": "fluentisliveupdate/menu/installer-services",
+              "path": "/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/menu/installer-services"
+            },
+            {
+              "id": "fluentisliveupdate/menu/licenses",
+              "path": "/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/menu/licenses",
+              "sidebar": "LiveUpdate Installation"
+            },
+            {
+              "id": "fluentisliveupdate/menu/repository",
+              "path": "/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/menu/repository"
+            },
+            {
+              "id": "fluentisliveupdate/menu/settings",
+              "path": "/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/menu/settings"
+            },
+            {
+              "id": "fluentisliveupdate/ubuntu/flu-ubuntu-installation",
+              "path": "/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/ubuntu/flu-ubuntu-installation"
+            },
+            {
+              "id": "fluentisliveupdate/ubuntu/flu-ubuntu-update",
+              "path": "/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/ubuntu/flu-ubuntu-update"
+            },
+            {
+              "id": "fluentisliveupdate/windows/flu-windows-installation",
+              "path": "/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/windows/flu-windows-installation"
+            },
+            {
+              "id": "fluentisliveupdate/windows/flu-windows-update",
+              "path": "/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/windows/flu-windows-update"
+            },
+            {
+              "id": "fluentisliveupdate/windows/prerequisites",
+              "path": "/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/windows/prerequisites"
+            },
+            {
+              "id": "installation-scenarios/docker-more-clusters",
+              "path": "/Advanced/FluentisLiveUpdate/docs/installation-scenarios/docker-more-clusters"
+            },
+            {
+              "id": "installation-scenarios/mixed-windows-ubuntu-docker",
+              "path": "/Advanced/FluentisLiveUpdate/docs/installation-scenarios/mixed-windows-ubuntu-docker",
+              "sidebar": "Installation Scenarios"
+            },
+            {
+              "id": "installation-scenarios/scenarios",
+              "path": "/Advanced/FluentisLiveUpdate/docs/installation-scenarios/scenarios",
+              "sidebar": "Installation Scenarios"
+            },
+            {
+              "id": "installation-scenarios/ubuntu-docker",
+              "path": "/Advanced/FluentisLiveUpdate/docs/installation-scenarios/ubuntu-docker",
+              "sidebar": "Installation Scenarios"
+            },
+            {
+              "id": "installation-scenarios/windows-only",
+              "path": "/Advanced/FluentisLiveUpdate/docs/installation-scenarios/windows-only",
+              "sidebar": "Installation Scenarios"
+            },
+            {
+              "id": "intro",
+              "path": "/Advanced/FluentisLiveUpdate/docs/intro"
+            },
+            {
+              "id": "kb/getting-started",
+              "path": "/Advanced/FluentisLiveUpdate/docs/kb/getting-started"
+            },
+            {
+              "id": "os-installation/photon-os/photon-os-install",
+              "path": "/Advanced/FluentisLiveUpdate/docs/os-installation/photon-os/photon-os-install",
+              "sidebar": "Software Requirements"
+            },
+            {
+              "id": "os-installation/photon-os/photon-post-installation",
+              "path": "/Advanced/FluentisLiveUpdate/docs/os-installation/photon-os/photon-post-installation"
+            },
+            {
+              "id": "os-installation/softwareRequirements",
+              "path": "/Advanced/FluentisLiveUpdate/docs/os-installation/softwareRequirements",
+              "sidebar": "Software Requirements"
+            },
+            {
+              "id": "os-installation/ubuntu-server/ubuntu-server-install",
+              "path": "/Advanced/FluentisLiveUpdate/docs/os-installation/ubuntu-server/ubuntu-server-install",
+              "sidebar": "Software Requirements"
+            },
+            {
+              "id": "os-installation/ubuntu-server/ubuntu-server-post-install",
+              "path": "/Advanced/FluentisLiveUpdate/docs/os-installation/ubuntu-server/ubuntu-server-post-install"
+            },
+            {
+              "id": "particular-cases/getting-started",
+              "path": "/Advanced/FluentisLiveUpdate/docs/particular-cases/getting-started",
+              "sidebar": "Tips & Tricks"
+            },
+            {
+              "id": "particular-cases/linux-docker/different-mtu",
+              "path": "/Advanced/FluentisLiveUpdate/docs/particular-cases/linux-docker/different-mtu",
+              "sidebar": "Tips & Tricks"
+            },
+            {
+              "id": "particular-cases/linux-docker/ftp",
+              "path": "/Advanced/FluentisLiveUpdate/docs/particular-cases/linux-docker/ftp",
+              "sidebar": "Tips & Tricks"
+            },
+            {
+              "id": "particular-cases/linux-docker/internet-connectivity-test",
+              "path": "/Advanced/FluentisLiveUpdate/docs/particular-cases/linux-docker/internet-connectivity-test",
+              "sidebar": "Tips & Tricks"
+            },
+            {
+              "id": "particular-cases/linux-docker/test-dll-debug",
+              "path": "/Advanced/FluentisLiveUpdate/docs/particular-cases/linux-docker/test-dll-debug",
+              "sidebar": "Tips & Tricks"
+            },
+            {
+              "id": "particular-cases/linux-docker/ufw",
+              "path": "/Advanced/FluentisLiveUpdate/docs/particular-cases/linux-docker/ufw",
+              "sidebar": "Tips & Tricks"
+            },
+            {
+              "id": "specifications/client/client-specifications",
+              "path": "/Advanced/FluentisLiveUpdate/docs/specifications/client/client-specifications"
+            },
+            {
+              "id": "specifications/Fluentis Web/specifications",
+              "path": "/Advanced/FluentisLiveUpdate/docs/specifications/Fluentis Web/specifications",
+              "sidebar": "Hardware Requirements"
+            },
+            {
+              "id": "specifications/FluentisMobile/specification",
+              "path": "/Advanced/FluentisLiveUpdate/docs/specifications/FluentisMobile/specification",
+              "sidebar": "Hardware Requirements"
+            },
+            {
+              "id": "specifications/getting-started",
+              "path": "/Advanced/FluentisLiveUpdate/docs/specifications/getting-started",
+              "sidebar": "Hardware Requirements"
+            },
+            {
+              "id": "specifications/server/linux-specifications",
+              "path": "/Advanced/FluentisLiveUpdate/docs/specifications/server/linux-specifications",
+              "sidebar": "Hardware Requirements"
+            },
+            {
+              "id": "specifications/server/windows-specifications",
+              "path": "/Advanced/FluentisLiveUpdate/docs/specifications/server/windows-specifications",
+              "sidebar": "Hardware Requirements"
+            },
+            {
+              "id": "sql-server-installation/Delete on docker/delete-on-docker",
+              "path": "/Advanced/FluentisLiveUpdate/docs/sql-server-installation/Delete on docker/delete-on-docker",
+              "sidebar": "MSSQL Installation"
+            },
+            {
+              "id": "sql-server-installation/docker/sql-server-docker",
+              "path": "/Advanced/FluentisLiveUpdate/docs/sql-server-installation/docker/sql-server-docker",
+              "sidebar": "MSSQL Installation"
+            },
+            {
+              "id": "sql-server-installation/docker/sql-server-docker-multiple",
+              "path": "/Advanced/FluentisLiveUpdate/docs/sql-server-installation/docker/sql-server-docker-multiple",
+              "sidebar": "MSSQL Installation"
+            },
+            {
+              "id": "sql-server-installation/getting-started",
+              "path": "/Advanced/FluentisLiveUpdate/docs/sql-server-installation/getting-started",
+              "sidebar": "MSSQL Installation"
+            },
+            {
+              "id": "sql-server-installation/Restoring/restore-on-docker",
+              "path": "/Advanced/FluentisLiveUpdate/docs/sql-server-installation/Restoring/restore-on-docker",
+              "sidebar": "MSSQL Installation"
+            },
+            {
+              "id": "sql-server-installation/Restoring/Restoring-existing-db-windows",
+              "path": "/Advanced/FluentisLiveUpdate/docs/sql-server-installation/Restoring/Restoring-existing-db-windows"
+            },
+            {
+              "id": "sql-server-installation/SQL on Linux/sql-server-linux",
+              "path": "/Advanced/FluentisLiveUpdate/docs/sql-server-installation/SQL on Linux/sql-server-linux",
+              "sidebar": "MSSQL Installation"
+            },
+            {
+              "id": "sql-server-installation/Take-database-from-docker/take-db-from-docker",
+              "path": "/Advanced/FluentisLiveUpdate/docs/sql-server-installation/Take-database-from-docker/take-db-from-docker",
+              "sidebar": "MSSQL Installation"
+            },
+            {
+              "id": "sql-server-installation/windows/sql-server-maintenance",
+              "path": "/Advanced/FluentisLiveUpdate/docs/sql-server-installation/windows/sql-server-maintenance"
+            },
+            {
+              "id": "sql-server-installation/windows/sql-server-windows",
+              "path": "/Advanced/FluentisLiveUpdate/docs/sql-server-installation/windows/sql-server-windows",
+              "sidebar": "MSSQL Installation"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "Hardware Requirements": {
+              "link": {
+                "path": "/Advanced/FluentisLiveUpdate/docs/specifications/getting-started",
+                "label": "Overview"
+              }
+            },
+            "Software Requirements": {
+              "link": {
+                "path": "/Advanced/FluentisLiveUpdate/docs/os-installation/softwareRequirements",
+                "label": "Overview"
+              }
+            },
+            "Docker Installation": {
+              "link": {
+                "path": "/Advanced/FluentisLiveUpdate/docs/docker-installation/getting-started",
+                "label": "Overview"
+              }
+            },
+            "MSSQL Installation": {
+              "link": {
+                "path": "/Advanced/FluentisLiveUpdate/docs/sql-server-installation/getting-started",
+                "label": "Overview"
+              }
+            },
+            "LiveUpdate Installation": {
+              "link": {
+                "path": "/Advanced/FluentisLiveUpdate/docs/fluentisinstaller/getting-started",
+                "label": "Overview"
+              }
+            },
+            "Fluentis": {
+              "link": {
+                "path": "/Advanced/FluentisLiveUpdate/docs/fluentis/getting-started",
+                "label": "Overview"
+              }
+            },
+            "Installation Scenarios": {
+              "link": {
+                "path": "/Advanced/FluentisLiveUpdate/docs/installation-scenarios/scenarios",
+                "label": "Overview"
+              }
+            },
+            "Tips & Tricks": {
+              "link": {
+                "path": "/Advanced/FluentisLiveUpdate/docs/particular-cases/getting-started",
+                "label": "Overview"
+              }
+            },
+            "FAQ": {
+              "link": {
+                "path": "/Advanced/FluentisLiveUpdate/docs/FAQ/WINDOWSFAQ",
+                "label": "FAQ"
+              }
+            },
+            "Release Notes": {}
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  },
+  "@cmfcmf/docusaurus-search-local": {
+    "default": {
+      "titleBoost": 5,
+      "contentBoost": 1,
+      "tagsBoost": 3,
+      "parentCategoriesBoost": 2,
+      "indexDocSidebarParentCategories": 0,
+      "maxSearchResults": 64
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "fluentisinstaller/windows/fluentisinstaller-windows-update",
+  "title": "Update",
+  "description": "Update Powershell Script",
+  "source": "@site/docs/fluentisinstaller/windows/fluentisinstaller-windows-update.md",
+  "sourceDirName": "fluentisinstaller/windows",
+  "slug": "/fluentisinstaller/windows/fluentisinstaller-windows-update",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentisinstaller/windows/fluentisinstaller-windows-update",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Update",
+    "sidebar_position": 1
+  }
+}

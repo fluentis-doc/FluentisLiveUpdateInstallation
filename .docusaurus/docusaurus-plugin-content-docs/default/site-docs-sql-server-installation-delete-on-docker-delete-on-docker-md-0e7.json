@@ -1,0 +1,27 @@
+{
+  "id": "sql-server-installation/Delete on docker/delete-on-docker",
+  "title": "Delete Database Backup from Docker Container",
+  "description": "If you need to delete a backup file (.bak) from a database inside a Docker container, you'll have to enter the container with administrator privileges.",
+  "source": "@site/docs/sql-server-installation/Delete on docker/delete-on-docker.md",
+  "sourceDirName": "sql-server-installation/Delete on docker",
+  "slug": "/sql-server-installation/Delete on docker/delete-on-docker",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/sql-server-installation/Delete on docker/delete-on-docker",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Delete Database Backup from Docker Container",
+    "sidebar_position": 1
+  },
+  "sidebar": "MSSQL Installation",
+  "previous": {
+    "title": "Take Database from Docker",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/sql-server-installation/Take-database-from-docker/take-db-from-docker"
+  },
+  "next": {
+    "title": "Restore Database Backup in Docker",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/sql-server-installation/Restoring/restore-on-docker"
+  }
+}

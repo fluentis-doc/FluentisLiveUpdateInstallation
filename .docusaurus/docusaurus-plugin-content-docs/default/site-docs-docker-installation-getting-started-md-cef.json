@@ -1,0 +1,23 @@
+{
+  "id": "docker-installation/getting-started",
+  "title": "Overview",
+  "description": "In this section we will cover a variety of topics: from installing Docker Engine (also known as Docker Community Edition) on Ubuntu or Docker Desktop on Windows, to pulling images from the Fluentis Docker Repository and starting and managing containers.",
+  "source": "@site/docs/docker-installation/getting-started.md",
+  "sourceDirName": "docker-installation",
+  "slug": "/docker-installation/getting-started",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/docker-installation/getting-started",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Overview",
+    "sidebar_position": 0
+  },
+  "sidebar": "Docker Installation",
+  "next": {
+    "title": "Docker Engine Install",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/docker-installation/linux/docker-engine-install"
+  }
+}

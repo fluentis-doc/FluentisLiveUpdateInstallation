@@ -1,0 +1,12 @@
+---
+title: Overview
+sidebar_position: 0
+---
+
+
+Fluentis Live Update is the application to proceed with fluentis suite **installation**, **updates**, and **porting** of customizations.  
+Fluentis Live Update, consists of a webApplication, a dedicated database on a SQL Server instance and also a service to be installed on the server which is called ***Fluentis Installer Service***.
+
+:::danger
+***FluentisInstaller* must be installed on each servers** involved in the Fluentis installion process (i.e. all the servers that host SQL Server installations or fluentis apps installations) **and properly registered** inside the  **FluentisLiveUpdate** web app, under **Installer Services** page. 
+:::

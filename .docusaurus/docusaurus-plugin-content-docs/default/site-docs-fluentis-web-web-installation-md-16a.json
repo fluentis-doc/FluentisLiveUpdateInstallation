@@ -1,0 +1,27 @@
+{
+  "id": "fluentis/web/web-installation",
+  "title": "Fluentis Web Installation",
+  "description": "Fluentis 2023 is available in a Web version through the use of the Blazor framework.",
+  "source": "@site/docs/fluentis/web/web-installation.md",
+  "sourceDirName": "fluentis/web",
+  "slug": "/fluentis/web/web-installation",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentis/web/web-installation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Fluentis Web Installation",
+    "sidebar_position": 0
+  },
+  "sidebar": "Fluentis",
+  "previous": {
+    "title": "Fluentis on Windows",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentis/windows/fluentis-standard-installation"
+  },
+  "next": {
+    "title": "Fluentis Client Installation",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentis/clients-installation/windows"
+  }
+}

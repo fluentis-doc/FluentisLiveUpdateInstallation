@@ -1,0 +1,26 @@
+{
+  "id": "specifications/server/windows-specifications",
+  "title": "Windows Server Requirements",
+  "description": "Below you will find all the server sizing specifications tables for Windows operating systems.",
+  "source": "@site/docs/specifications/server/windows-specifications.md",
+  "sourceDirName": "specifications/server",
+  "slug": "/specifications/server/windows-specifications",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/specifications/server/windows-specifications",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Windows Server Requirements",
+    "position": 0
+  },
+  "sidebar": "Hardware Requirements",
+  "previous": {
+    "title": "Server",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/specifications/server/linux-specifications"
+  },
+  "next": {
+    "title": "FluentisWeb",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/specifications/Fluentis Web/specifications"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "particular-cases/linux-docker/internet-connectivity-test",
+  "title": "Internet connectivity test",
+  "description": "Problem",
+  "source": "@site/docs/particular-cases/linux-docker/internet-connectivity-test.md",
+  "sourceDirName": "particular-cases/linux-docker",
+  "slug": "/particular-cases/linux-docker/internet-connectivity-test",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/particular-cases/linux-docker/internet-connectivity-test",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Internet connectivity test",
+    "sidebar_position": 1
+  },
+  "sidebar": "Tips & Tricks",
+  "previous": {
+    "title": "Different MTU",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/particular-cases/linux-docker/different-mtu"
+  },
+  "next": {
+    "title": "Test dll in debug",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/particular-cases/linux-docker/test-dll-debug"
+  }
+}

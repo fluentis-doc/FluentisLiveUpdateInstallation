@@ -1,0 +1,23 @@
+{
+  "id": "installation-scenarios/scenarios",
+  "title": "Overview",
+  "description": "In this article will be listed the steps to follow for the specific installation scenarios, that are:",
+  "source": "@site/docs/installation-scenarios/scenarios.md",
+  "sourceDirName": "installation-scenarios",
+  "slug": "/installation-scenarios/scenarios",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/installation-scenarios/scenarios",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Overview",
+    "sidebar_position": 0
+  },
+  "sidebar": "Installation Scenarios",
+  "next": {
+    "title": "Windows",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/installation-scenarios/windows-only"
+  }
+}

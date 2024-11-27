@@ -1,0 +1,23 @@
+{
+  "id": "docker-installation/windows/docker-desktop-install",
+  "title": "Docker Desktop Install",
+  "description": "This installation is intented to be used only for demo purposes.",
+  "source": "@site/docs/docker-installation/windows/docker-desktop-install.md",
+  "sourceDirName": "docker-installation/windows",
+  "slug": "/docker-installation/windows/docker-desktop-install",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/docker-installation/windows/docker-desktop-install",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Docker Desktop Install",
+    "sidebar_position": 2
+  },
+  "sidebar": "Docker Installation",
+  "previous": {
+    "title": "Docker Engine Install",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/docker-installation/linux/docker-engine-install"
+  }
+}

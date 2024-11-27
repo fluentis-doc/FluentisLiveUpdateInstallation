@@ -1,0 +1,23 @@
+{
+  "id": "sql-server-installation/getting-started",
+  "title": "Overview",
+  "description": "The purpose of this section is document Sql Server installation and maintenance.",
+  "source": "@site/docs/sql-server-installation/getting-started.md",
+  "sourceDirName": "sql-server-installation",
+  "slug": "/sql-server-installation/getting-started",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/sql-server-installation/getting-started",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Overview",
+    "sidebar_position": 0
+  },
+  "sidebar": "MSSQL Installation",
+  "next": {
+    "title": "SQL on Docker",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/sql-server-installation/docker/sql-server-docker"
+  }
+}

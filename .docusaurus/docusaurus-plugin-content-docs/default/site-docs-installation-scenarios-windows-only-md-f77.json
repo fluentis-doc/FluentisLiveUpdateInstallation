@@ -1,0 +1,27 @@
+{
+  "id": "installation-scenarios/windows-only",
+  "title": "Windows",
+  "description": "The article on Windows Server OS installation is not provided in this documentation.",
+  "source": "@site/docs/installation-scenarios/windows-only.md",
+  "sourceDirName": "installation-scenarios",
+  "slug": "/installation-scenarios/windows-only",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/installation-scenarios/windows-only",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Windows",
+    "sidebar_position": 1
+  },
+  "sidebar": "Installation Scenarios",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/installation-scenarios/scenarios"
+  },
+  "next": {
+    "title": "Ubuntu (Docker)",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/installation-scenarios/ubuntu-docker"
+  }
+}

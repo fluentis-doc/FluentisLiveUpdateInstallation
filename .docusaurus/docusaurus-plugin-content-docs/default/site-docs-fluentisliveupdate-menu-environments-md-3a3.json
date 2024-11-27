@@ -1,0 +1,18 @@
+{
+  "id": "fluentisliveupdate/menu/environments",
+  "title": "Environments",
+  "description": "In this page there are all the Fluentis and ARM installations. At first the page will show all the ARM servers and databases, then for each arm server all the related fluentis cluster and finally for each cluster all the releated databases.",
+  "source": "@site/docs/fluentisliveupdate/menu/environments.md",
+  "sourceDirName": "fluentisliveupdate/menu",
+  "slug": "/fluentisliveupdate/menu/environments",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/menu/environments",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Environments",
+    "sidebar_position": 3
+  }
+}

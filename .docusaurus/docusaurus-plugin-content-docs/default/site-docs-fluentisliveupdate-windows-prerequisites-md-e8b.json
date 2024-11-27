@@ -1,0 +1,18 @@
+{
+  "id": "fluentisliveupdate/windows/prerequisites",
+  "title": "IIS Installation on Windows Server",
+  "description": "Before proceeding to install FluentisLiveUpdate, a server must have installed the following:",
+  "source": "@site/docs/fluentisliveupdate/windows/prerequisites.md",
+  "sourceDirName": "fluentisliveupdate/windows",
+  "slug": "/fluentisliveupdate/windows/prerequisites",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/windows/prerequisites",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "IIS Installation on Windows Server",
+    "sidebar_position": 0
+  }
+}

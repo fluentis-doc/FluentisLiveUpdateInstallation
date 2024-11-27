@@ -1,0 +1,27 @@
+{
+  "id": "fluentis/clients-installation/windows",
+  "title": "Windows Client Installation",
+  "description": "Client Installation Requirements",
+  "source": "@site/docs/fluentis/clients-installation/windows.md",
+  "sourceDirName": "fluentis/clients-installation",
+  "slug": "/fluentis/clients-installation/windows",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentis/clients-installation/windows",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Windows Client Installation",
+    "sidebar_position": 1
+  },
+  "sidebar": "Fluentis",
+  "previous": {
+    "title": "Fluentis Web Installation",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentis/web/web-installation"
+  },
+  "next": {
+    "title": "Fluentis Web Client Installation",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentis/clients-installation/fluentis-web"
+  }
+}

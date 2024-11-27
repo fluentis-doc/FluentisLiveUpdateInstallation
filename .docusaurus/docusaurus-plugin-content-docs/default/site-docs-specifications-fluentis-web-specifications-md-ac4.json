@@ -1,0 +1,26 @@
+{
+  "id": "specifications/Fluentis Web/specifications",
+  "title": "FluentisWeb Server Requirements",
+  "description": "The Web version is available exclusively for Fluentis, not for Application Resource Manager",
+  "source": "@site/docs/specifications/Fluentis Web/specifications.md",
+  "sourceDirName": "specifications/Fluentis Web",
+  "slug": "/specifications/Fluentis Web/specifications",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/specifications/Fluentis Web/specifications",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "FluentisWeb Server Requirements",
+    "position": 0
+  },
+  "sidebar": "Hardware Requirements",
+  "previous": {
+    "title": "Client",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/specifications/server/windows-specifications"
+  },
+  "next": {
+    "title": "FluentisMobile",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/specifications/FluentisMobile/specification"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "fluentis-on-docker/getting-started",
+  "title": "Overview",
+  "description": "In this section we will cover Fluentis installation in Docker environment",
+  "source": "@site/docs/fluentis-on-docker/getting-started.md",
+  "sourceDirName": "fluentis-on-docker",
+  "slug": "/fluentis-on-docker/getting-started",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentis-on-docker/getting-started",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Overview",
+    "sidebar_position": 1
+  }
+}

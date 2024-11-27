@@ -1,0 +1,23 @@
+{
+  "id": "os-installation/softwareRequirements",
+  "title": "Overview",
+  "description": "The purpose of this guide is to illustrate the steps related to the installation of Ubuntu server and Photon OS.",
+  "source": "@site/docs/os-installation/softwareRequirements.md",
+  "sourceDirName": "os-installation",
+  "slug": "/os-installation/softwareRequirements",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/os-installation/softwareRequirements",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Overview",
+    "sidebar_position": 0
+  },
+  "sidebar": "Software Requirements",
+  "next": {
+    "title": "Ubuntu Server",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/os-installation/ubuntu-server/ubuntu-server-install"
+  }
+}

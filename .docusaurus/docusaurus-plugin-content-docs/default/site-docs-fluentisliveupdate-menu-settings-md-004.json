@@ -1,0 +1,18 @@
+{
+  "id": "fluentisliveupdate/menu/settings",
+  "title": "Settings",
+  "description": "In this page you can change FluentisLiveUpdate settings. Only a few parameters can be changed frequently, that are:",
+  "source": "@site/docs/fluentisliveupdate/menu/settings.md",
+  "sourceDirName": "fluentisliveupdate/menu",
+  "slug": "/fluentisliveupdate/menu/settings",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/menu/settings",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Settings",
+    "sidebar_position": 6
+  }
+}

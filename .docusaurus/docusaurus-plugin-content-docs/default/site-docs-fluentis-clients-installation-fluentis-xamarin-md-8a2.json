@@ -1,0 +1,23 @@
+{
+  "id": "fluentis/clients-installation/fluentis-xamarin",
+  "title": "Fluentis Mobile Client Installation",
+  "description": "You can run Fluentis Mobile in Android",
+  "source": "@site/docs/fluentis/clients-installation/fluentis-xamarin.md",
+  "sourceDirName": "fluentis/clients-installation",
+  "slug": "/fluentis/clients-installation/fluentis-xamarin",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentis/clients-installation/fluentis-xamarin",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Fluentis Mobile Client Installation",
+    "sidebar_position": 2
+  },
+  "sidebar": "Fluentis",
+  "previous": {
+    "title": "Fluentis Web Client Installation",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentis/clients-installation/fluentis-web"
+  }
+}

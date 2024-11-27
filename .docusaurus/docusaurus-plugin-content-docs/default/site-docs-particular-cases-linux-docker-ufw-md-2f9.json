@@ -1,0 +1,24 @@
+{
+  "id": "particular-cases/linux-docker/ufw",
+  "title": "UFW - Uncomplicated Firewall",
+  "description": "The default firewall configuration tool for Ubuntu is ufw.",
+  "source": "@site/docs/particular-cases/linux-docker/ufw.md",
+  "sourceDirName": "particular-cases/linux-docker",
+  "slug": "/particular-cases/linux-docker/ufw",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/particular-cases/linux-docker/ufw",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "ufw",
+    "title": "UFW - Uncomplicated Firewall",
+    "sidebar_position": 4
+  },
+  "sidebar": "Tips & Tricks",
+  "previous": {
+    "title": "Ftp Server Installation",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/particular-cases/linux-docker/ftp"
+  }
+}

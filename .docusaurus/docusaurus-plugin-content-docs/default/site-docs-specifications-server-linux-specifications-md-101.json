@@ -1,0 +1,26 @@
+{
+  "id": "specifications/server/linux-specifications",
+  "title": "Linux Server Requirements",
+  "description": "Below you will find all server sizing specifications tables for Linux operating systems.",
+  "source": "@site/docs/specifications/server/linux-specifications.md",
+  "sourceDirName": "specifications/server",
+  "slug": "/specifications/server/linux-specifications",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/specifications/server/linux-specifications",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Linux Server Requirements",
+    "position": 1
+  },
+  "sidebar": "Hardware Requirements",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/specifications/getting-started"
+  },
+  "next": {
+    "title": "Client",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/specifications/server/windows-specifications"
+  }
+}

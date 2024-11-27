@@ -1,0 +1,18 @@
+{
+  "id": "kb/getting-started",
+  "title": "Getting Started - Knowledge Base",
+  "description": "The purpose of this section is document particular situations that can be helpful.",
+  "source": "@site/docs/kb/getting-started.md",
+  "sourceDirName": "kb",
+  "slug": "/kb/getting-started",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/kb/getting-started",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Getting Started - Knowledge Base",
+    "sidebar_position": 1
+  }
+}

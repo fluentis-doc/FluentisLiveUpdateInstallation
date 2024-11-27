@@ -1,0 +1,23 @@
+{
+  "id": "particular-cases/getting-started",
+  "title": "Overview",
+  "description": "In this section we will report all the particular cases and useful things seen during the installation of Fluentis.",
+  "source": "@site/docs/particular-cases/getting-started.md",
+  "sourceDirName": "particular-cases",
+  "slug": "/particular-cases/getting-started",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/particular-cases/getting-started",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Overview",
+    "sidebar_position": 0
+  },
+  "sidebar": "Tips & Tricks",
+  "next": {
+    "title": "Different MTU",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/particular-cases/linux-docker/different-mtu"
+  }
+}

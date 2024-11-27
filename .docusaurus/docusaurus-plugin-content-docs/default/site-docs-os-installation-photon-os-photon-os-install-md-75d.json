@@ -1,0 +1,23 @@
+{
+  "id": "os-installation/photon-os/photon-os-install",
+  "title": "Photon Installation",
+  "description": "Prerequisites",
+  "source": "@site/docs/os-installation/photon-os/photon-os-install.md",
+  "sourceDirName": "os-installation/photon-os",
+  "slug": "/os-installation/photon-os/photon-os-install",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/os-installation/photon-os/photon-os-install",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Photon Installation",
+    "sidebar_position": 0
+  },
+  "sidebar": "Software Requirements",
+  "previous": {
+    "title": "Ubuntu Server",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/os-installation/ubuntu-server/ubuntu-server-install"
+  }
+}

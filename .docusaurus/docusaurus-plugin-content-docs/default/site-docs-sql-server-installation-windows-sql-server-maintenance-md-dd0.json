@@ -1,0 +1,18 @@
+{
+  "id": "sql-server-installation/windows/sql-server-maintenance",
+  "title": "Maintenance Plan",
+  "description": "Introduction",
+  "source": "@site/docs/sql-server-installation/windows/sql-server-maintenance.md",
+  "sourceDirName": "sql-server-installation/windows",
+  "slug": "/sql-server-installation/windows/sql-server-maintenance",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/sql-server-installation/windows/sql-server-maintenance",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Maintenance Plan",
+    "sidebar_position": 3
+  }
+}

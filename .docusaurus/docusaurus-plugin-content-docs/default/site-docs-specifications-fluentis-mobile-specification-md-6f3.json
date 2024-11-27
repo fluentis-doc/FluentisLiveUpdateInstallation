@@ -1,0 +1,22 @@
+{
+  "id": "specifications/FluentisMobile/specification",
+  "title": "Fluentis Mobile Client Requirements",
+  "description": "the mobile version is  is currently only available for Android and not for iOS",
+  "source": "@site/docs/specifications/FluentisMobile/specification.md",
+  "sourceDirName": "specifications/FluentisMobile",
+  "slug": "/specifications/FluentisMobile/specification",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/specifications/FluentisMobile/specification",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Fluentis Mobile Client Requirements",
+    "position": 0
+  },
+  "sidebar": "Hardware Requirements",
+  "previous": {
+    "title": "FluentisWeb",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/specifications/Fluentis Web/specifications"
+  }
+}

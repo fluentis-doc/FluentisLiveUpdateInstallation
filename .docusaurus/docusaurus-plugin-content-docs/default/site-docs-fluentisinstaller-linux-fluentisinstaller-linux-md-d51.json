@@ -1,0 +1,27 @@
+{
+  "id": "fluentisinstaller/linux/fluentisinstaller-linux",
+  "title": "Fluentis Installer Service on Linux Docker",
+  "description": "In Linux environments with Docker, it is necessary to first install the FluentisInstallerService and then FluentisLiveUpdate.",
+  "source": "@site/docs/fluentisinstaller/linux/fluentisinstaller-linux.md",
+  "sourceDirName": "fluentisinstaller/linux",
+  "slug": "/fluentisinstaller/linux/fluentisinstaller-linux",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentisinstaller/linux/fluentisinstaller-linux",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Fluentis Installer Service on Linux Docker",
+    "sidebar_position": 0
+  },
+  "sidebar": "LiveUpdate Installation",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentisinstaller/getting-started"
+  },
+  "next": {
+    "title": "Fluentis Live Update on Windows Server",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentisinstaller/windows/fluentisinstaller-windows"
+  }
+}

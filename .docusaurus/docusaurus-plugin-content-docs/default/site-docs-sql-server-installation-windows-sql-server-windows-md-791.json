@@ -1,0 +1,27 @@
+{
+  "id": "sql-server-installation/windows/sql-server-windows",
+  "title": "MSSQL On Windows",
+  "description": "If you have the SQL server ISO file the first step is to mount the disk.",
+  "source": "@site/docs/sql-server-installation/windows/sql-server-windows.md",
+  "sourceDirName": "sql-server-installation/windows",
+  "slug": "/sql-server-installation/windows/sql-server-windows",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/sql-server-installation/windows/sql-server-windows",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "MSSQL On Windows",
+    "sidebar_position": 2
+  },
+  "sidebar": "MSSQL Installation",
+  "previous": {
+    "title": "SQL on Docker",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/sql-server-installation/docker/sql-server-docker"
+  },
+  "next": {
+    "title": "SQL on Linux",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/sql-server-installation/SQL on Linux/sql-server-linux"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "specifications/client/client-specifications",
+  "title": "Windows",
+  "description": "In order to take full advantage of the potential made available by the new Fluentis 2021, the client machine must also guarantee a minimum of hardware resources, to allow optimal visualization and rapid data loading.",
+  "source": "@site/docs/specifications/client/client-specifications.md",
+  "sourceDirName": "specifications/client",
+  "slug": "/specifications/client/client-specifications",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/specifications/client/client-specifications",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Windows",
+    "position": 0
+  }
+}

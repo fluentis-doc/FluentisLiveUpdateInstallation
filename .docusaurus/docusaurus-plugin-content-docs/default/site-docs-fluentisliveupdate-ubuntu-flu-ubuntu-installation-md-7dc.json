@@ -1,0 +1,18 @@
+{
+  "id": "fluentisliveupdate/ubuntu/flu-ubuntu-installation",
+  "title": "Installation",
+  "description": "In this article is described step by step the installation of FluentisLiveUpdate on Ubuntu.",
+  "source": "@site/docs/fluentisliveupdate/ubuntu/flu-ubuntu-installation.md",
+  "sourceDirName": "fluentisliveupdate/ubuntu",
+  "slug": "/fluentisliveupdate/ubuntu/flu-ubuntu-installation",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/ubuntu/flu-ubuntu-installation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Installation",
+    "sidebar_position": 0
+  }
+}

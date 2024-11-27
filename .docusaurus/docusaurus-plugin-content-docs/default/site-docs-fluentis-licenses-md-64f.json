@@ -1,0 +1,18 @@
+{
+  "id": "fluentis/licenses",
+  "title": "Licenses",
+  "description": "Introduction",
+  "source": "@site/docs/fluentis/licenses.md",
+  "sourceDirName": "fluentis",
+  "slug": "/fluentis/licenses",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentis/licenses",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Licenses",
+    "sidebar_position": 4
+  }
+}

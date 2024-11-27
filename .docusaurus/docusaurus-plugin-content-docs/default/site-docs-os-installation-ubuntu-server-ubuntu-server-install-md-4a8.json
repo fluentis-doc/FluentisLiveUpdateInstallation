@@ -1,0 +1,27 @@
+{
+  "id": "os-installation/ubuntu-server/ubuntu-server-install",
+  "title": "Ubuntu Installation",
+  "description": "Use always a Long Term Support (LTS) release of Ubuntu Server. They are 'enterprise grade' releases that are supported for 5 years at no cost. See The Ubuntu lifecycle and release cadence for more information.",
+  "source": "@site/docs/os-installation/ubuntu-server/ubuntu-server-install.md",
+  "sourceDirName": "os-installation/ubuntu-server",
+  "slug": "/os-installation/ubuntu-server/ubuntu-server-install",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/os-installation/ubuntu-server/ubuntu-server-install",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Ubuntu Installation",
+    "sidebar_position": 0
+  },
+  "sidebar": "Software Requirements",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/os-installation/softwareRequirements"
+  },
+  "next": {
+    "title": "Photon OS",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/os-installation/photon-os/photon-os-install"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "fluentis/docker/fluentis-docker-installation",
+  "title": "Fluentis on Docker",
+  "description": "This article will describe how to manage the Fluentis/ARM installation, assuming that the article FluentisLiveUpdate Installation has been followed, and so FluentisLiveUpdate web app is up and running.",
+  "source": "@site/docs/fluentis/docker/fluentis-docker-installation.md",
+  "sourceDirName": "fluentis/docker",
+  "slug": "/fluentis/docker/fluentis-docker-installation",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentis/docker/fluentis-docker-installation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Fluentis on Docker",
+    "sidebar_position": 0
+  },
+  "sidebar": "Fluentis",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentis/getting-started"
+  },
+  "next": {
+    "title": "Fluentis on Windows",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentis/windows/fluentis-standard-installation"
+  }
+}

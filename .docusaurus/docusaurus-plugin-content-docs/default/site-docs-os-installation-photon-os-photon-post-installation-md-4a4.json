@@ -1,0 +1,18 @@
+{
+  "id": "os-installation/photon-os/photon-post-installation",
+  "title": "Photon Post Installation",
+  "description": "Some operation requires root privileges and by default, Photon OS on the minimal version, does not include sudo program installation. To download it, run:",
+  "source": "@site/docs/os-installation/photon-os/photon-post-installation.md",
+  "sourceDirName": "os-installation/photon-os",
+  "slug": "/os-installation/photon-os/photon-post-installation",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/os-installation/photon-os/photon-post-installation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Photon Post Installation",
+    "sidebar_position": 1
+  }
+}

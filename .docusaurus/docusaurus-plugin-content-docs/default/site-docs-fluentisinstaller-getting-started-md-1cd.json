@@ -1,0 +1,23 @@
+{
+  "id": "fluentisinstaller/getting-started",
+  "title": "Overview",
+  "description": "Fluentis Live Update is the management tool for Fluentis installations and updates.",
+  "source": "@site/docs/fluentisinstaller/getting-started.md",
+  "sourceDirName": "fluentisinstaller",
+  "slug": "/fluentisinstaller/getting-started",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentisinstaller/getting-started",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Overview",
+    "sidebar_position": 0
+  },
+  "sidebar": "LiveUpdate Installation",
+  "next": {
+    "title": "Fluentis Installer Service on Linux Docker",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentisinstaller/linux/fluentisinstaller-linux"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "fluentisliveupdate/menu/repository",
+  "title": "Repository",
+  "description": "You MUST Give the 777 Permission to Repository Target Folder",
+  "source": "@site/docs/fluentisliveupdate/menu/repository.md",
+  "sourceDirName": "fluentisliveupdate/menu",
+  "slug": "/fluentisliveupdate/menu/repository",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/menu/repository",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Repository",
+    "sidebar_position": 2
+  }
+}

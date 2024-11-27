@@ -1,0 +1,18 @@
+{
+  "id": "fluentisliveupdate/menu/installer-services",
+  "title": "Installer Services",
+  "description": "In this page are listed all the active/current Fluentis Installers registrations. For each installer there is server with which it can communicate.",
+  "source": "@site/docs/fluentisliveupdate/menu/installer-services.md",
+  "sourceDirName": "fluentisliveupdate/menu",
+  "slug": "/fluentisliveupdate/menu/installer-services",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/menu/installer-services",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Installer Services",
+    "sidebar_position": 4
+  }
+}

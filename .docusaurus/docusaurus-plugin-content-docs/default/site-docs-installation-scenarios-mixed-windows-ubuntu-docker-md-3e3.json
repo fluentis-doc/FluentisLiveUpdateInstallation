@@ -1,0 +1,27 @@
+{
+  "id": "installation-scenarios/mixed-windows-ubuntu-docker",
+  "title": "Windows and Ubuntu (Docker)",
+  "description": "Read carefully the Overview article placed inside the section FluentisInstaller",
+  "source": "@site/docs/installation-scenarios/mixed-windows-ubuntu-docker.md",
+  "sourceDirName": "installation-scenarios",
+  "slug": "/installation-scenarios/mixed-windows-ubuntu-docker",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/installation-scenarios/mixed-windows-ubuntu-docker",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Windows and Ubuntu (Docker)",
+    "sidebar_position": 3
+  },
+  "sidebar": "Installation Scenarios",
+  "previous": {
+    "title": "Ubuntu (Docker)",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/installation-scenarios/ubuntu-docker"
+  },
+  "next": {
+    "title": "Docker - 1 Arm, More Fluentis Cluster",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/installation-scenarios/mixed-windows-ubuntu-docker"
+  }
+}

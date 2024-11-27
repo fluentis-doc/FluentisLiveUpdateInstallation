@@ -1,0 +1,18 @@
+{
+  "id": "os-installation/ubuntu-server/ubuntu-server-post-install",
+  "title": "Ubuntu Post Installation",
+  "description": "Optional - Disable sudo prompt for password",
+  "source": "@site/docs/os-installation/ubuntu-server/ubuntu-server-post-install.md",
+  "sourceDirName": "os-installation/ubuntu-server",
+  "slug": "/os-installation/ubuntu-server/ubuntu-server-post-install",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/os-installation/ubuntu-server/ubuntu-server-post-install",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Ubuntu Post Installation",
+    "sidebar_position": 1
+  }
+}

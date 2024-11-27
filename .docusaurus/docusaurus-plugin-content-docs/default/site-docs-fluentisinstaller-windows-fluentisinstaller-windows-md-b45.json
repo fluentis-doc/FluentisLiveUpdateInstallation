@@ -1,0 +1,27 @@
+{
+  "id": "fluentisinstaller/windows/fluentisinstaller-windows",
+  "title": "Fluentis Live Update on Windows Server",
+  "description": "In the Windows Server environment, installation of the Fluentis Installer Service and the Fluentis Live Update Web application with its database is done contextually.",
+  "source": "@site/docs/fluentisinstaller/windows/fluentisinstaller-windows.md",
+  "sourceDirName": "fluentisinstaller/windows",
+  "slug": "/fluentisinstaller/windows/fluentisinstaller-windows",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentisinstaller/windows/fluentisinstaller-windows",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Fluentis Live Update on Windows Server",
+    "sidebar_position": 0
+  },
+  "sidebar": "LiveUpdate Installation",
+  "previous": {
+    "title": "Fluentis Installer Service on Linux Docker",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentisinstaller/linux/fluentisinstaller-linux"
+  },
+  "next": {
+    "title": "Fluentis Live Update on Docker",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/docker/flu-docker-installation"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "sql-server-installation/docker/sql-server-docker copy",
+  "title": "MSSQL On Docker (Multiple Instances)",
+  "description": "",
+  "source": "@site/docs/sql-server-installation/docker/sql-server-docker copy.md",
+  "sourceDirName": "sql-server-installation/docker",
+  "slug": "/sql-server-installation/docker/sql-server-docker copy",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/sql-server-installation/docker/sql-server-docker copy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "MSSQL On Docker (Multiple Instances)",
+    "sidebar_position": 2
+  }
+}

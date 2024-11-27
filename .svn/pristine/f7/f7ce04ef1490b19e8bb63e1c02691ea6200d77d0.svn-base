@@ -1,0 +1,118 @@
+/** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
+
+const sidebar = {
+  'Hardware Requirements': [
+    {
+      type: 'category',
+      label: 'Hardware Requirements',
+      items: [
+        'specifications/getting-started',
+        'specifications/server/linux-specifications',
+        'specifications/server/windows-specifications',
+        'specifications/Fluentis Web/specifications',
+        'specifications/FluentisMobile/specification',
+      ],
+    },
+
+  ],
+
+'Software Requirements': [ {
+
+  type: 'category',
+  label: 'Software Requirements',
+  items: [
+    'os-installation/softwareRequirements',
+    'os-installation/ubuntu-server/ubuntu-server-install',
+    'os-installation/ubuntu-server/ubuntu-server-post-install',
+    'os-installation/photon-os/photon-os-install',
+    'os-installation/photon-os/photon-post-installation',
+    'fluentisliveupdate/windows/prerequisites',
+  ],
+},
+    
+  ],
+'Docker Installation': [
+  {
+    type: 'category',
+    label: 'Docker Installation',
+    items: [
+      'docker-installation/getting-started',
+      'docker-installation/linux/docker-engine-install',
+      'docker-installation/windows/docker-desktop-install',
+    ],
+  },
+],
+  'MSSQL Installation': [
+    {
+      type: 'category',
+      label: 'MSSQL Installation',
+      items: [
+        'sql-server-installation/getting-started',
+        'sql-server-installation/docker/sql-server-docker',
+        'sql-server-installation/windows/sql-server-windows',
+        'sql-server-installation/SQL on Linux/sql-server-linux',
+        'sql-server-installation/Take-database-from-docker/take-db-from-docker',
+        'sql-server-installation/Delete on docker/delete-on-docker',
+        'sql-server-installation/Restoring/restore-on-docker'
+
+      ],
+    },
+  ],
+    'LiveUpdate Installation': [
+      {
+        type: 'category',
+        label: 'LiveUpdate Installation',
+        items: [
+          'fluentisinstaller/getting-started',
+          'fluentisinstaller/linux/fluentisinstaller-linux',
+          'fluentisinstaller/windows/fluentisinstaller-windows',
+          'fluentisliveupdate/menu/licenses',
+          'fluentisliveupdate/windows/flu-windows-installation',
+          'fluentisliveupdate/docker/flu-docker-installation',
+        ],
+      },
+    ],
+      'Fluentis': [
+        {
+          type: 'category',
+          label: 'Fluentis',
+          items: [
+            'fluentis/getting-started',
+            'fluentis/docker/fluentis-docker-installation',
+            'fluentis/windows/fluentis-standard-installation',
+            'fluentis/web/web-installation',
+            'fluentis/clients-installation/windows',
+            'fluentis/clients-installation/fluentis-web',
+            'fluentis/clients-installation/fluentis-xamarin',
+          ],
+        },
+      ],
+        'Installation Scenarios': [
+          {
+            type: 'category',
+            label: 'Installation Scenarios',
+            items: [
+              'installation-scenarios/scenarios',
+              'installation-scenarios/windows-only',
+              'installation-scenarios/ubuntu-docker',
+              'installation-scenarios/mixed-windows-ubuntu-docker',
+            ],
+          },
+        ],
+          'Tips & Tricks': [
+            {
+              type: 'category',
+              label: 'Tips & Tricks',
+              items: [
+                'particular-cases/getting-started',
+                'particular-cases/linux-docker/different-mtu',
+                'particular-cases/linux-docker/internet-connectivity-test',
+                'particular-cases/linux-docker/test-dll-debug',
+                'particular-cases/linux-docker/ftp',
+                'particular-cases/linux-docker/ufw'
+              ],
+            },
+          ],
+}
+
+module.exports = sidebar;
