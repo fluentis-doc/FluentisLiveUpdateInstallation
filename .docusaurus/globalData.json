@@ -94,7 +94,8 @@
             },
             {
               "id": "fluentisinstaller/windows/fluentisinstaller-windows-update",
-              "path": "/Advanced/FluentisLiveUpdate/docs/fluentisinstaller/windows/fluentisinstaller-windows-update"
+              "path": "/Advanced/FluentisLiveUpdate/docs/fluentisinstaller/windows/fluentisinstaller-windows-update",
+              "sidebar": "LiveUpdate Installation"
             },
             {
               "id": "fluentisliveupdate/docker/flu-docker-installation",
@@ -144,7 +145,8 @@
             },
             {
               "id": "fluentisliveupdate/windows/flu-windows-update",
-              "path": "/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/windows/flu-windows-update"
+              "path": "/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/windows/flu-windows-update",
+              "sidebar": "LiveUpdate Installation"
             },
             {
               "id": "fluentisliveupdate/windows/prerequisites",

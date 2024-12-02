@@ -14,5 +14,14 @@
   "frontMatter": {
     "title": "Update",
     "sidebar_position": 1
+  },
+  "sidebar": "LiveUpdate Installation",
+  "previous": {
+    "title": "Fluentis Live Update on Docker",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/docker/flu-docker-installation"
+  },
+  "next": {
+    "title": "Updating Fluentis Live Update On Windows ",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/windows/flu-windows-update"
   }
 }

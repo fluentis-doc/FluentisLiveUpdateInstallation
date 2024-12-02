@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/Advanced/FluentisLiveUpdate/docs',
-    component: ComponentCreator('/Advanced/FluentisLiveUpdate/docs', '91a'),
+    component: ComponentCreator('/Advanced/FluentisLiveUpdate/docs', '224'),
     routes: [
       {
         path: '/Advanced/FluentisLiveUpdate/docs',
-        component: ComponentCreator('/Advanced/FluentisLiveUpdate/docs', '5be'),
+        component: ComponentCreator('/Advanced/FluentisLiveUpdate/docs', 'ace'),
         routes: [
           {
             path: '/Advanced/FluentisLiveUpdate/docs',
-            component: ComponentCreator('/Advanced/FluentisLiveUpdate/docs', '1fe'),
+            component: ComponentCreator('/Advanced/FluentisLiveUpdate/docs', '49c'),
             routes: [
               {
                 path: '/Advanced/FluentisLiveUpdate/docs/docker-installation/getting-started',
@@ -155,8 +155,9 @@ export default [
               },
               {
                 path: '/Advanced/FluentisLiveUpdate/docs/fluentisinstaller/windows/fluentisinstaller-windows-update',
-                component: ComponentCreator('/Advanced/FluentisLiveUpdate/docs/fluentisinstaller/windows/fluentisinstaller-windows-update', '607'),
-                exact: true
+                component: ComponentCreator('/Advanced/FluentisLiveUpdate/docs/fluentisinstaller/windows/fluentisinstaller-windows-update', '591'),
+                exact: true,
+                sidebar: "LiveUpdate Installation"
               },
               {
                 path: '/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/docker/flu-docker-installation',
@@ -217,8 +218,9 @@ export default [
               },
               {
                 path: '/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/windows/flu-windows-update',
-                component: ComponentCreator('/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/windows/flu-windows-update', 'bf2'),
-                exact: true
+                component: ComponentCreator('/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/windows/flu-windows-update', '952'),
+                exact: true,
+                sidebar: "LiveUpdate Installation"
               },
               {
                 path: '/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/windows/prerequisites',

@@ -14,5 +14,14 @@
   "frontMatter": {
     "title": "Update",
     "sidebar_position": 2
+  },
+  "sidebar": "LiveUpdate Installation",
+  "previous": {
+    "title": "Updating Fluentis Installer Service On Windows",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentisinstaller/windows/fluentisinstaller-windows-update"
+  },
+  "next": {
+    "title": "License",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/fluentisliveupdate/menu/licenses"
   }
 }

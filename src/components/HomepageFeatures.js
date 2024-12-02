@@ -49,6 +49,8 @@ const NavbarLinks = [
       { label: 'Fluentis Installer Service on Linux Docker', to: 'docs/fluentisinstaller/linux/fluentisinstaller-linux' },
       { label: 'Fluentis Live Update on Windows Server', to: 'docs/fluentisinstaller/windows/fluentisinstaller-windows' },
       { label: 'Fluentis Live Update on Docker', to: 'docs/fluentisliveupdate/docker/flu-docker-installation' },
+      { label: 'Updating Fluentis Installer Service On Windows', to: 'docs/fluentisinstaller/windows/fluentisinstaller-windows-update/' },
+      { label: 'Updating Fluentis Live Update On Windows ', to: 'docs/fluentisliveupdate/windows/flu-windows-update/' },
       { label: 'License', to: 'docs/fluentisliveupdate/menu/licenses' },
     ],
   },

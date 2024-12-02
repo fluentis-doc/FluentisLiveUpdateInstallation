@@ -174,6 +174,15 @@ export default {
             },
             {
               "activeBasePath": "docs",
+              "to": "docs/fluentisinstaller/windows/fluentisinstaller-windows-update/",
+              "label": "Updating Fluentis Installer Service On Windows"
+            },
+            {
+              "label": "Updating Fluentis Live Update On Windows ",
+              "to": "docs/fluentisliveupdate/windows/flu-windows-update/"
+            },
+            {
+              "activeBasePath": "docs",
               "to": "docs/fluentisliveupdate/menu/licenses",
               "label": "License"
             }
@@ -546,20 +555,20 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\dario.belluz\\Desktop\\Repo\\sidebars.js"
+          "sidebarPath": "C:\\Users\\dario.belluz\\Desktop\\FluentisLiveUpdateInstallation\\sidebars.js"
         },
         "blog": {
           "showReadingTime": true
         },
         "theme": {
-          "customCss": "C:\\Users\\dario.belluz\\Desktop\\Repo\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\dario.belluz\\Desktop\\FluentisLiveUpdateInstallation\\src\\css\\custom.css"
         }
       }
     ]
   ],
   "plugins": [
     [
-      "C:\\Users\\dario.belluz\\Desktop\\Repo\\node_modules\\@cmfcmf\\docusaurus-search-local\\lib\\server\\index.js",
+      "C:\\Users\\dario.belluz\\Desktop\\FluentisLiveUpdateInstallation\\node_modules\\@cmfcmf\\docusaurus-search-local\\lib\\server\\index.js",
       {
         "indexDocs": true,
         "indexDocSidebarParentCategories": 0,

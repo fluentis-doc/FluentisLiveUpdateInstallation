@@ -76,7 +76,10 @@ const config = {
             { activeBasePath: 'docs', to: 'docs/fluentisinstaller/linux/fluentisinstaller-linux', label: 'Fluentis Installer Service on Linux Docker' },
             { activeBasePath: 'docs', to: 'docs/fluentisinstaller/windows/fluentisinstaller-windows', label: 'Fluentis Live Update on Windows Server' },
             { activeBasePath: 'docs', to: 'docs/fluentisliveupdate/docker/flu-docker-installation', label: 'Fluentis Live Update on Docker' },
-            { activeBasePath: 'docs', to: 'docs/fluentisliveupdate/menu/licenses', label: 'License' }
+            { activeBasePath: 'docs', to: 'docs/fluentisinstaller/windows/fluentisinstaller-windows-update/', label: 'Updating Fluentis Installer Service On Windows' },
+            { label: 'Updating Fluentis Live Update On Windows ', to: 'docs/fluentisliveupdate/windows/flu-windows-update/' },
+            { activeBasePath: 'docs', to: 'docs/fluentisliveupdate/menu/licenses', label: 'License' },
+
           ]
         },
         {
