@@ -228,6 +228,11 @@
               "sidebar": "Tips & Tricks"
             },
             {
+              "id": "particular-cases/linux-docker/mappingWindowsFolder",
+              "path": "/Advanced/FluentisLiveUpdate/docs/particular-cases/linux-docker/mappingWindowsFolder",
+              "sidebar": "Tips & Tricks"
+            },
+            {
               "id": "particular-cases/linux-docker/test-dll-debug",
               "path": "/Advanced/FluentisLiveUpdate/docs/particular-cases/linux-docker/test-dll-debug",
               "sidebar": "Tips & Tricks"

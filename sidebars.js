@@ -113,6 +113,8 @@ const sidebar = {
         { type: 'doc', id: 'particular-cases/linux-docker/test-dll-debug', label: 'Test dll in debug' },
         { type: 'doc', id: 'particular-cases/linux-docker/ftp', label: 'Ftp Server Installation' },
         { type: 'doc', id: 'particular-cases/linux-docker/ufw', label: 'UFW Firewall' },
+        { type: 'doc', id: 'particular-cases/linux-docker/mappingWindowsFolder', label: 'Mapping Windows Folder' },
+
       ],
     },
   ],

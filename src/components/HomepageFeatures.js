@@ -85,6 +85,8 @@ const NavbarLinks = [
       { label: 'Test dll in debug', to: 'docs/particular-cases/linux-docker/test-dll-debug' },
       { label: 'Ftp Server Installation', to: 'docs/particular-cases/linux-docker/ftp' },
       { label: 'UFW Firewall', to: 'docs/particular-cases/linux-docker/ufw' },
+      { label: 'Mapping Windows Folder', to: 'docs/particular-cases/linux-docker/mappingWindowsFolder' },
+
     ],
   },
 ];

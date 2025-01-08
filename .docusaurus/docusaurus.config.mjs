@@ -293,6 +293,11 @@ export default {
               "activeBasePath": "docs",
               "to": "docs/particular-cases/linux-docker/ufw",
               "label": "UFW Firewall"
+            },
+            {
+              "activeBasePath": "docs",
+              "to": "docs/particular-cases/linux-docker/mappingWindowsFolder",
+              "label": "Mapping Windows Folder"
             }
           ]
         },

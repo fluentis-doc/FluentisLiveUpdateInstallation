@@ -20,5 +20,9 @@
   "previous": {
     "title": "Ftp Server Installation",
     "permalink": "/Advanced/FluentisLiveUpdate/docs/particular-cases/linux-docker/ftp"
+  },
+  "next": {
+    "title": "Mapping Windows Folder",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/particular-cases/linux-docker/mappingWindowsFolder"
   }
 }

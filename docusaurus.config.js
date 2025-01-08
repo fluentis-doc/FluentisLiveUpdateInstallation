@@ -115,7 +115,9 @@ const config = {
             { activeBasePath: 'docs', to: 'docs/particular-cases/linux-docker/internet-connectivity-test', label: 'Internet connectivity test' },
             { activeBasePath: 'docs', to: 'docs/particular-cases/linux-docker/test-dll-debug', label: 'Test dll in debug' },
             { activeBasePath: 'docs', to: 'docs/particular-cases/linux-docker/ftp', label: 'Ftp Server Installation' },
-            { activeBasePath: 'docs', to: 'docs/particular-cases/linux-docker/ufw', label: 'UFW Firewall' }
+            { activeBasePath: 'docs', to: 'docs/particular-cases/linux-docker/ufw', label: 'UFW Firewall' },
+            { activeBasePath: 'docs', to: 'docs/particular-cases/linux-docker/mappingWindowsFolder', label: 'Mapping Windows Folder' }
+
           ],
         },
         {

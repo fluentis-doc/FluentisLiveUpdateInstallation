@@ -1,0 +1,24 @@
+{
+  "id": "particular-cases/linux-docker/mappingWindowsFolder",
+  "title": "Mapping Windows Folder in Docker Container",
+  "description": "Binding Windows Shared Folder in Linux (Ubuntu)",
+  "source": "@site/docs/particular-cases/linux-docker/mappingWindowsFolder.md",
+  "sourceDirName": "particular-cases/linux-docker",
+  "slug": "/particular-cases/linux-docker/mappingWindowsFolder",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/particular-cases/linux-docker/mappingWindowsFolder",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "mappingWindowsFolder",
+    "title": "Mapping Windows Folder in Docker Container",
+    "sidebar_position": 5
+  },
+  "sidebar": "Tips & Tricks",
+  "previous": {
+    "title": "UFW Firewall",
+    "permalink": "/Advanced/FluentisLiveUpdate/docs/particular-cases/linux-docker/ufw"
+  }
+}
