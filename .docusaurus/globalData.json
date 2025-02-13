@@ -228,6 +228,10 @@
               "sidebar": "Tips & Tricks"
             },
             {
+              "id": "particular-cases/linux-docker/logFluentis",
+              "path": "/Advanced/FluentisLiveUpdate/docs/particular-cases/linux-docker/logFluentis"
+            },
+            {
               "id": "particular-cases/linux-docker/mappingWindowsFolder",
               "path": "/Advanced/FluentisLiveUpdate/docs/particular-cases/linux-docker/mappingWindowsFolder",
               "sidebar": "Tips & Tricks"

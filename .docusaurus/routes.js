@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/Advanced/FluentisLiveUpdate/docs',
-    component: ComponentCreator('/Advanced/FluentisLiveUpdate/docs', 'b12'),
+    component: ComponentCreator('/Advanced/FluentisLiveUpdate/docs', '687'),
     routes: [
       {
         path: '/Advanced/FluentisLiveUpdate/docs',
-        component: ComponentCreator('/Advanced/FluentisLiveUpdate/docs', '155'),
+        component: ComponentCreator('/Advanced/FluentisLiveUpdate/docs', '4fc'),
         routes: [
           {
             path: '/Advanced/FluentisLiveUpdate/docs',
-            component: ComponentCreator('/Advanced/FluentisLiveUpdate/docs', 'eb2'),
+            component: ComponentCreator('/Advanced/FluentisLiveUpdate/docs', '1d5'),
             routes: [
               {
                 path: '/Advanced/FluentisLiveUpdate/docs/docker-installation/getting-started',
@@ -317,6 +317,11 @@ export default [
                 component: ComponentCreator('/Advanced/FluentisLiveUpdate/docs/particular-cases/linux-docker/internet-connectivity-test', '877'),
                 exact: true,
                 sidebar: "Tips & Tricks"
+              },
+              {
+                path: '/Advanced/FluentisLiveUpdate/docs/particular-cases/linux-docker/logFluentis',
+                component: ComponentCreator('/Advanced/FluentisLiveUpdate/docs/particular-cases/linux-docker/logFluentis', '5c2'),
+                exact: true
               },
               {
                 path: '/Advanced/FluentisLiveUpdate/docs/particular-cases/linux-docker/mappingWindowsFolder',

@@ -1,0 +1,18 @@
+{
+  "id": "particular-cases/linux-docker/logFluentis",
+  "title": "Log Fluentis",
+  "description": "",
+  "source": "@site/docs/particular-cases/linux-docker/logFluentis.md",
+  "sourceDirName": "particular-cases/linux-docker",
+  "slug": "/particular-cases/linux-docker/logFluentis",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/particular-cases/linux-docker/logFluentis",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Log Fluentis",
+    "sidebar_position": 5
+  }
+}

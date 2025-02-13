@@ -4,15 +4,15 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Fluentis Live Update Installation",
-  "tagline": "Fluentis Live Update Advanced",
+  "title": "Fluentis Suite Installation",
+  "tagline": "Fluentis Suite Installation",
   "url": "https://docs.fluentis.com",
   "baseUrl": "/Advanced/FluentisLiveUpdate/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/fluentis-32x32px.png",
   "organizationName": "Fluentis srl",
-  "projectName": "Fluentis Live Update Installation",
+  "projectName": "Fluentis Suite Installation",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -23,7 +23,7 @@ export default {
   },
   "themeConfig": {
     "navbar": {
-      "title": "LiveUpdate Installation",
+      "title": "Fluentis Suite Installation",
       "logo": {
         "alt": "Fluentis Logo",
         "src": "img/fluentis.svg"
@@ -331,7 +331,7 @@ export default {
           "title": "Fluentis Documentation",
           "items": [
             {
-              "label": "Fluentis ERP",
+              "label": "Fluentis Academy",
               "href": "https://docs.fluentis.com/FluentisErp/"
             },
             {
@@ -345,11 +345,19 @@ export default {
           ]
         },
         {
-          "title": "Fluentis Customization",
+          "title": "Fluentis Advanced",
           "items": [
             {
-              "label": "Integration",
+              "label": "Fluentis Suite Installation",
+              "href": "https://docs.fluentis.com/Advanced/FluentisLiveUpdate/"
+            },
+            {
+              "label": "Integrations",
               "href": "https://docs.fluentis.com/Integration/"
+            },
+            {
+              "label": "Customizations",
+              "href": "https://internal-docs.fluentis.com/Partners/Customization/"
             }
           ]
         },
@@ -368,27 +376,27 @@ export default {
             {
               "label": " Web Site",
               "href": "https://www.fluentis.com/it/",
-              "className": " icon bi bi-arrow-up-right-circle-fill"
+              "className": "icon bi bi-arrow-up-right-circle-fill"
             },
             {
               "label": " Instagram",
               "href": "https://www.instagram.com/fluentis.erp/",
-              "className": " icon bi bi-instagram"
+              "className": "icon bi bi-instagram"
             },
             {
               "label": " Facebook",
               "href": "https://www.facebook.com/FluentisSrl",
-              "className": " icon bi bi-facebook"
+              "className": "icon bi bi-facebook"
             },
             {
-              "label": " YouTube",
+              "label": " Youtube",
               "href": "https://www.youtube.com/@formazionefluentis",
-              "className": " bi bi-youtube"
+              "className": "icon bi bi-youtube"
             }
           ]
         }
       ],
-      "copyright": "Fluentis SRL 2024 | C.F. e P.IVA IT01720550936"
+      "copyright": "FLUENTIS SRL 2025 | C.F. e P.IVA IT01720550936"
     },
     "colorMode": {
       "defaultMode": "light",

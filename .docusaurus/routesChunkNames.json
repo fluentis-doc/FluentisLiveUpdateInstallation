@@ -49,17 +49,17 @@
     },
     "content": "content---advanced-fluentis-live-update-markdown-page-393-b5f"
   },
-  "/Advanced/FluentisLiveUpdate/docs-b12": {
+  "/Advanced/FluentisLiveUpdate/docs-687": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---advanced-fluentis-live-update-docsaba-dd1"
     }
   },
-  "/Advanced/FluentisLiveUpdate/docs-155": {
+  "/Advanced/FluentisLiveUpdate/docs-4fc": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---advanced-fluentis-live-update-docsf-74-867"
   },
-  "/Advanced/FluentisLiveUpdate/docs-eb2": {
+  "/Advanced/FluentisLiveUpdate/docs-1d5": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/Advanced/FluentisLiveUpdate/docs/docker-installation/getting-started-59a": {
@@ -249,6 +249,10 @@
   "/Advanced/FluentisLiveUpdate/docs/particular-cases/linux-docker/internet-connectivity-test-877": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---advanced-fluentis-live-update-docs-particular-cases-linux-docker-internet-connectivity-test-14-b-7bf"
+  },
+  "/Advanced/FluentisLiveUpdate/docs/particular-cases/linux-docker/logFluentis-5c2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---advanced-fluentis-live-update-docs-particular-cases-linux-docker-log-fluentis-730-145"
   },
   "/Advanced/FluentisLiveUpdate/docs/particular-cases/linux-docker/mappingWindowsFolder-3cc": {
     "__comp": "__comp---theme-doc-item-178-a40",

@@ -12,11 +12,9 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title"> Fluentis Live Update Installation </h1>
-
+        <h1 className="hero__title">Fluentis Suite Installation</h1>
         <a className="button button--primary bottoneCustom bi bi-arrow-up-right-circle-fill" href="docs/intro"> Overview
         </a>
-
       </div>
     </header>
   );
@@ -28,8 +26,7 @@ export default function Home() {
     <Layout
       title={`${siteConfig.title}`}
       subtitle={`${siteConfig.tagline}`}
-      description="Description will go into a meta tag in <head />"
-    >
+      description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
