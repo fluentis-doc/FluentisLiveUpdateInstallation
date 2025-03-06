@@ -67,6 +67,14 @@ const NavbarLinks = [
     ],
   },
   {
+    title: 'Integration Tool Installation',
+    items: [
+      { label: 'Overview', to: 'docs/integration/getting-started' },
+      { label: 'Supervisor Installation', to: 'docs/integration/supervisor' },
+      { label: 'BizLink Installation', to: 'docs/integration/bizlink' },
+    ],
+  },
+  {
     title: 'Installation Scenarios',
     items: [
       { label: 'Overview', to: 'docs/installation-scenarios/scenarios' },

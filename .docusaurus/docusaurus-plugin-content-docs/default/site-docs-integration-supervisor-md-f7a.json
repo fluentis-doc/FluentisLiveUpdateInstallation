@@ -1,0 +1,18 @@
+{
+  "id": "integration/supervisor",
+  "title": "Supervisor",
+  "description": "Supervisor Installation on Windows Server",
+  "source": "@site/docs/integration/supervisor.md",
+  "sourceDirName": "integration",
+  "slug": "/integration/supervisor",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/integration/supervisor",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Supervisor",
+    "sidebar_position": 2
+  }
+}

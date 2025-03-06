@@ -177,6 +177,18 @@
               "sidebar": "Installation Scenarios"
             },
             {
+              "id": "integration/bizlink",
+              "path": "/Advanced/FluentisLiveUpdate/docs/integration/bizlink"
+            },
+            {
+              "id": "integration/getting-started",
+              "path": "/Advanced/FluentisLiveUpdate/docs/integration/getting-started"
+            },
+            {
+              "id": "integration/supervisor",
+              "path": "/Advanced/FluentisLiveUpdate/docs/integration/supervisor"
+            },
+            {
               "id": "intro",
               "path": "/Advanced/FluentisLiveUpdate/docs/intro"
             },

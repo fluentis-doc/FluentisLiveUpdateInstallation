@@ -1,6 +1,5 @@
 @import '~bootstrap-icons/font/bootstrap-icons.css';
 
-
 :root {
   --ifm-color-primary: #4c769b;
   --ifm-color-primary-dark: #3e6077;
@@ -10,7 +9,7 @@
   --ifm-color-primary-lighter: #8fb4c6;
   --ifm-color-primary-lightest: #b7e1eb;
 
-  --ifm-color-secondary: #a24c6d;
+  --ifm-color-secondary:#B3FF00;
   --ifm-color-secondary-light: #c78e9c;
   --ifm-color-secondary-dark: #8a3b54;
 
@@ -28,6 +27,7 @@
 
   --ifm-code-font-size: 95%;
 }
+
 details>summary {
   cursor: pointer;
 }
@@ -51,7 +51,7 @@ details>summary {
 
 @media screen and (min-width: 997px) {
   :root {
-    --ifm-font-size-base: 14px;
+    --ifm-font-size-base: 13px;
   }
 
   article header h1 {
@@ -146,14 +146,17 @@ a:hover {
   font-weight: 100;
   padding: 3px;
   transition: background-color 0.4s ease, color 0.4s ease, transform 0.4s ease;
+  background-color: transparent;
+  color: white;
 }
 
 .bottoneCustom:hover {
-  background-color: white;
-  color: #4c769b;
-  transform: scale(1.11);
-  
+  background-color: #4c769b;
+  color:#B3FF00;
+  border-color: white;
+  transform: scale(1.25);
 }
+
 
 .heroBanner {
   padding: 4rem 0;
@@ -185,4 +188,3 @@ a:hover {
   height: 10%;
   width: 10%;
 }
-

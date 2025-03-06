@@ -1,0 +1,18 @@
+{
+  "id": "integration/bizlink",
+  "title": "BizLink",
+  "description": "BizLink installation on Windows Server",
+  "source": "@site/docs/integration/bizlink.md",
+  "sourceDirName": "integration",
+  "slug": "/integration/bizlink",
+  "permalink": "/Advanced/FluentisLiveUpdate/docs/integration/bizlink",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "BizLink",
+    "sidebar_position": 3
+  }
+}

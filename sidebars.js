@@ -118,6 +118,16 @@ const sidebar = {
       ],
     },
   ],
+  'Integration': [
+    {
+      type: 'category',
+      label: 'Integration',
+      items: [
+        { type: 'doc', id: 'particular-cases/getting-started', label: 'Overview' },
+        { type: 'doc', id: 'particular-cases/linux-docker/different-mtu', label: 'Different MTU' },
+      ],
+    },
+  ],
 
   FAQ: [
     {

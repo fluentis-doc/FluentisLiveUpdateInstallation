@@ -49,17 +49,17 @@
     },
     "content": "content---advanced-fluentis-live-update-markdown-page-393-b5f"
   },
-  "/Advanced/FluentisLiveUpdate/docs-687": {
+  "/Advanced/FluentisLiveUpdate/docs-707": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---advanced-fluentis-live-update-docsaba-dd1"
     }
   },
-  "/Advanced/FluentisLiveUpdate/docs-4fc": {
+  "/Advanced/FluentisLiveUpdate/docs-f62": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---advanced-fluentis-live-update-docsf-74-867"
   },
-  "/Advanced/FluentisLiveUpdate/docs-1d5": {
+  "/Advanced/FluentisLiveUpdate/docs-aaf": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/Advanced/FluentisLiveUpdate/docs/docker-installation/getting-started-59a": {
@@ -205,6 +205,18 @@
   "/Advanced/FluentisLiveUpdate/docs/installation-scenarios/windows-only-daf": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---advanced-fluentis-live-update-docs-installation-scenarios-windows-onlyf-77-824"
+  },
+  "/Advanced/FluentisLiveUpdate/docs/integration/bizlink-16d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---advanced-fluentis-live-update-docs-integration-bizlinkecd-4fe"
+  },
+  "/Advanced/FluentisLiveUpdate/docs/integration/getting-started-adc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---advanced-fluentis-live-update-docs-integration-getting-startedbc-1-201"
+  },
+  "/Advanced/FluentisLiveUpdate/docs/integration/supervisor-4ce": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---advanced-fluentis-live-update-docs-integration-supervisorf-7-a-b63"
   },
   "/Advanced/FluentisLiveUpdate/docs/intro-1c0": {
     "__comp": "__comp---theme-doc-item-178-a40",

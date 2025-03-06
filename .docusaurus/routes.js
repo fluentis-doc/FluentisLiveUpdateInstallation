@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/Advanced/FluentisLiveUpdate/docs',
-    component: ComponentCreator('/Advanced/FluentisLiveUpdate/docs', '687'),
+    component: ComponentCreator('/Advanced/FluentisLiveUpdate/docs', '707'),
     routes: [
       {
         path: '/Advanced/FluentisLiveUpdate/docs',
-        component: ComponentCreator('/Advanced/FluentisLiveUpdate/docs', '4fc'),
+        component: ComponentCreator('/Advanced/FluentisLiveUpdate/docs', 'f62'),
         routes: [
           {
             path: '/Advanced/FluentisLiveUpdate/docs',
-            component: ComponentCreator('/Advanced/FluentisLiveUpdate/docs', '1d5'),
+            component: ComponentCreator('/Advanced/FluentisLiveUpdate/docs', 'aaf'),
             routes: [
               {
                 path: '/Advanced/FluentisLiveUpdate/docs/docker-installation/getting-started',
@@ -255,6 +255,21 @@ export default [
                 component: ComponentCreator('/Advanced/FluentisLiveUpdate/docs/installation-scenarios/windows-only', 'daf'),
                 exact: true,
                 sidebar: "Installation Scenarios"
+              },
+              {
+                path: '/Advanced/FluentisLiveUpdate/docs/integration/bizlink',
+                component: ComponentCreator('/Advanced/FluentisLiveUpdate/docs/integration/bizlink', '16d'),
+                exact: true
+              },
+              {
+                path: '/Advanced/FluentisLiveUpdate/docs/integration/getting-started',
+                component: ComponentCreator('/Advanced/FluentisLiveUpdate/docs/integration/getting-started', 'adc'),
+                exact: true
+              },
+              {
+                path: '/Advanced/FluentisLiveUpdate/docs/integration/supervisor',
+                component: ComponentCreator('/Advanced/FluentisLiveUpdate/docs/integration/supervisor', '4ce'),
+                exact: true
               },
               {
                 path: '/Advanced/FluentisLiveUpdate/docs/intro',
